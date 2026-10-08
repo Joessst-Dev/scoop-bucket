@@ -1,0 +1,24 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Joessst-Dev/faehigkeiten/releases/download/v0.1.0/faehigkeiten_0.1.0_windows_amd64.zip",
+            "bin": [
+                "fgk.exe",
+                "faehigkeiten.exe"
+            ],
+            "hash": "7c53798123ea83c56ca00d4fb910be80b8bf175f0b099e5b39c71076ff1b3a98"
+        },
+        "arm64": {
+            "url": "https://github.com/Joessst-Dev/faehigkeiten/releases/download/v0.1.0/faehigkeiten_0.1.0_windows_arm64.zip",
+            "bin": [
+                "fgk.exe",
+                "faehigkeiten.exe"
+            ],
+            "hash": "ba862246dc9957437f38e943b9b9a8e26aea93fcbaf84995f5501b0cf2e63dc8"
+        }
+    },
+    "homepage": "https://github.com/Joessst-Dev/faehigkeiten",
+    "license": "MIT",
+    "description": "TUI to install and track agent skills from skill repositories"
+}
