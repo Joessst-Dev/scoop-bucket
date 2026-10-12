@@ -19,11 +19,16 @@ when Scoop itself is set up rather than by these installs.
 ## fft
 
 ```powershell
-scoop install fft
+scoop install joessst/fft
 ```
 
-Then `fft version`. Upgrades are `scoop update fft`. fft tells you when a newer release
-exists, and names that command itself.
+`joessst/fft` names the bucket as well as the app, so another bucket's `fft` can never be
+the one installed. Then `fft version`.
+
+Upgrades are `scoop update; scoop update fft`. The bare `scoop update` refreshes the
+buckets first; without it, Scoop can skip the refresh when it pulled them recently and
+report the old fft as current. fft tells you when a newer release exists, and names this
+command itself when Scoop installed it.
 
 ### Verifying what you install
 
