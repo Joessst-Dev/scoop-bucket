@@ -1,0 +1,22 @@
+{
+    "version": "0.9.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Joessst-Dev/fft-cli/releases/download/v0.9.0/fft_0.9.0_windows_amd64.zip",
+            "bin": [
+                "fft.exe"
+            ],
+            "hash": "def783a46e8a238f5b96b3b4fb3ff911122d65ad8bc68aaedb527fa912407af2"
+        },
+        "arm64": {
+            "url": "https://github.com/Joessst-Dev/fft-cli/releases/download/v0.9.0/fft_0.9.0_windows_arm64.zip",
+            "bin": [
+                "fft.exe"
+            ],
+            "hash": "ad36496dc243148985efb2bd365170099503cf1c03957a4026b58d1b8c1e89ec"
+        }
+    },
+    "homepage": "https://github.com/Joessst-Dev/fft-cli",
+    "license": "MIT",
+    "description": "A CLI for the fulfillmenttools API — every operation reachable from your shell."
+}
