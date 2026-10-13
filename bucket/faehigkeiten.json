@@ -1,21 +1,21 @@
 {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Joessst-Dev/faehigkeiten/releases/download/v0.1.0/faehigkeiten_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/Joessst-Dev/faehigkeiten/releases/download/v0.2.0/faehigkeiten_0.2.0_windows_amd64.zip",
             "bin": [
-                "fgk.exe",
-                "faehigkeiten.exe"
+                "faehigkeiten.exe",
+                "fgk.exe"
             ],
-            "hash": "7c53798123ea83c56ca00d4fb910be80b8bf175f0b099e5b39c71076ff1b3a98"
+            "hash": "57cda979eab720b264496c8de0aa191bb86c92f927ebf4321c566e974af81b37"
         },
         "arm64": {
-            "url": "https://github.com/Joessst-Dev/faehigkeiten/releases/download/v0.1.0/faehigkeiten_0.1.0_windows_arm64.zip",
+            "url": "https://github.com/Joessst-Dev/faehigkeiten/releases/download/v0.2.0/faehigkeiten_0.2.0_windows_arm64.zip",
             "bin": [
-                "fgk.exe",
-                "faehigkeiten.exe"
+                "faehigkeiten.exe",
+                "fgk.exe"
             ],
-            "hash": "ba862246dc9957437f38e943b9b9a8e26aea93fcbaf84995f5501b0cf2e63dc8"
+            "hash": "4e81179f7af03a7730ae4ab308898f97ae0f2ca4c7da26a622e84ccb314b7972"
         }
     },
     "homepage": "https://github.com/Joessst-Dev/faehigkeiten",
