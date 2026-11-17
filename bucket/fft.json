@@ -1,19 +1,19 @@
 {
-    "version": "0.10.0",
+    "version": "0.10.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Joessst-Dev/fft-cli/releases/download/v0.10.0/fft_0.10.0_windows_amd64.zip",
+            "url": "https://github.com/Joessst-Dev/fft-cli/releases/download/v0.10.1/fft_0.10.1_windows_amd64.zip",
             "bin": [
                 "fft.exe"
             ],
-            "hash": "a1fdadb9d2c8e48b52aa55613be107ab99fe02910baafa413d9fae3db2e71db0"
+            "hash": "a8f638f57b2897b203d1db487c26304ddfe9a4c5fc3232f6e0d59f6347d80d7b"
         },
         "arm64": {
-            "url": "https://github.com/Joessst-Dev/fft-cli/releases/download/v0.10.0/fft_0.10.0_windows_arm64.zip",
+            "url": "https://github.com/Joessst-Dev/fft-cli/releases/download/v0.10.1/fft_0.10.1_windows_arm64.zip",
             "bin": [
                 "fft.exe"
             ],
-            "hash": "b135d932b594acc7279d4e84d21ff3cc7e772b6f9ac8f75178ad96919e77c1d5"
+            "hash": "9715f54285872ab0c51bed1395e0a6d3e51b529022c8cb46ed071fdf95304785"
         }
     },
     "homepage": "https://github.com/Joessst-Dev/fft-cli",
